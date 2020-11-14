@@ -45,7 +45,7 @@
 
 .cover-bg-overlay {
   display: none;
-  background: url("../../assets/img/Logo.svg?h=ad060978dcf4d7b9a775e3557e44f413");
+  background: url("Logo.svg");
   background-size: auto 100vh;
   background-repeat: no-repeat;
   opacity: 0.50;
@@ -118,7 +118,7 @@
 }
 
 .control-center-img-behind {
-  background: url("../../assets/img/qs_light_mini.png?h=b7e281c315889310d100ab316da5c33c");
+  background: url("../../assets/img/ui/qs_light.png?h=25305afa97507feb2235cc7876fae9c7");
   max-width: 450px;
   min-width: 300px;
   background-repeat: no-repeat;
@@ -127,7 +127,7 @@
 }
 
 .launcher-img-behind {
-  background: url("../../assets/img/drawer_dark_mini.png?h=1d708d2da7524706974c9a0ec9d2f424");
+  background: url("../../assets/img/ui/drawer_dark.png?h=21b8696d9a560132f24a90b58b10ee21");
   max-width: 450px;
   min-width: 300px;
   background-repeat: no-repeat;
